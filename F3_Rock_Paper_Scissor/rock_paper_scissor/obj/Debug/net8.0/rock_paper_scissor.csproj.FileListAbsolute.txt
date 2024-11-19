@@ -1,0 +1,14 @@
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/bin/Debug/net8.0/rock_paper_scissor
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/bin/Debug/net8.0/rock_paper_scissor.deps.json
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/bin/Debug/net8.0/rock_paper_scissor.runtimeconfig.json
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/bin/Debug/net8.0/rock_paper_scissor.dll
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/bin/Debug/net8.0/rock_paper_scissor.pdb
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.AssemblyInfoInputs.cache
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.AssemblyInfo.cs
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.csproj.CoreCompileInputs.cache
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.dll
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/refint/rock_paper_scissor.dll
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.pdb
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/rock_paper_scissor.genruntimeconfig.cache
+/Users/sahil/c# projects/F3_Rock_Paper_Scissor/rock_paper_scissor/obj/Debug/net8.0/ref/rock_paper_scissor.dll
